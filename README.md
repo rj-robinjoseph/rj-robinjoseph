@@ -8,6 +8,10 @@
 
 - 📫 How to reach me **robinjoseph452@gmail.com**
 
-- 👨‍💻 You can also check out my portfolio at [####](####)
+- 👨‍💻 You can also check out my portfolio at [#####](####)
+
+- 🔭 I’m currently Learning everything.
+
+- 📝 Find my Resume here
 
 - ⚡ One thing I cannot live without is **Music.**
