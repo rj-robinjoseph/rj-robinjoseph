@@ -5,3 +5,7 @@
 ![SPRK_default_preset_name_custom – 1](https://user-images.githubusercontent.com/48469274/116203550-701feb00-a759-11eb-81b6-6ea2eb49c7e5.png)
 
 <img align="right" alt="Coding" width="400" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/GIF-210427_104427.gif">
+
+- 📫 How to reach me **robinjoseph452@gmail.com**
+- 👨‍💻 You can also check out my portfolio at [###################](#####################)
+- ⚡ One thing I cannot live without is **Music**
