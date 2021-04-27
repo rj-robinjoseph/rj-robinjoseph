@@ -7,5 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/GIF-210427_104427.gif">
 
 - 📫 How to reach me **robinjoseph452@gmail.com**
-- 👨‍💻 You can also check out my portfolio at [###################](#####################)
-- ⚡ One thing I cannot live without is **Music**
+
+- 👨‍💻 You can also check out my portfolio at [####](####)
+
+- ⚡ One thing I cannot live without is **Music.**
