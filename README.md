@@ -4,7 +4,7 @@
 
 ![SPRK_default_preset_name_custom – 1](https://res.cloudinary.com/robinjoseph/image/upload/v1640533956/Web_1920_1_ijevwy.png)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/GIF-210427_104427.gif">
+<img alt="Coding" align="right" width="400" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/GIF-210427_104427.gif">
 
 - 📫 How to reach me **robinjoseph452@gmail.com**
 
