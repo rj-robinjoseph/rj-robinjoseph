@@ -3,9 +3,7 @@
 <h1 align="center">Hi I'm Robin<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 ![SPRK_default_preset_name_custom – 1](https://res.cloudinary.com/robinjoseph/image/upload/v1640533956/Web_1920_1_ijevwy.png)
-
-<table><tr><td valign="top" border="none" width="50%">
-
+<table><tr><td valign="top" width="50%">
 - 📫 How to reach me **robinjoseph452@gmail.com**
 
 - 👨‍💻 You can also check out my portfolio at [robinjoseph.xyz](https://www.robinjoseph.xyz/)
@@ -15,15 +13,14 @@
 - 📝 Find my [Resume here](https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/Resume-Robin%20Joseph.pdf)
 
 - ⚡ One thing I cannot live without is **Music.**
-  
 </td><td valign="top" width="50%">
-  
-  <div align="center">
-<img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/GIF-210427_104427.gif" align="center" style="width: 100%" />
-</div>  
+ <div align="center">
+  <img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/GIF-210427_104427.gif" align="center" width="100%" />
+ </div> 
+</td></tr></table>  
 
 
-</td></tr></table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
