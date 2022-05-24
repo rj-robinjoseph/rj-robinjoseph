@@ -4,7 +4,7 @@
 
 ![SPRK_default_preset_name_custom – 1](https://res.cloudinary.com/robinjoseph/image/upload/v1640533956/Web_1920_1_ijevwy.png)
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" border="none" width="50%">
 
 - 📫 How to reach me **robinjoseph452@gmail.com**
 
