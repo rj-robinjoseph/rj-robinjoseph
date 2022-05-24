@@ -4,7 +4,7 @@
 
 ![SPRK_default_preset_name_custom – 1](https://res.cloudinary.com/robinjoseph/image/upload/v1640533956/Web_1920_1_ijevwy.png)
 
-<img alt="Coding" align="right" width="400" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/GIF-210427_104427.gif">
+<table><tr><td valign="top" width="50%">
 
 - 📫 How to reach me **robinjoseph452@gmail.com**
 
@@ -15,6 +15,15 @@
 - 📝 Find my [Resume here](https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/Resume-Robin%20Joseph.pdf)
 
 - ⚡ One thing I cannot live without is **Music.**
+  
+</td><td valign="top" width="50%">
+  
+  <div align="center">
+<img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/GIF-210427_104427.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
