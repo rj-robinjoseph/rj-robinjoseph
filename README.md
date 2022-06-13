@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/48469274/116090470-8bd7b280-a6c1-11eb-845a-0230c54397eb.png)
 
-<h1 align="center">Hi I'm Robin<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="2px" alt="hi"></h1>
+<h1 align="center">Hi I'm Robin<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="hi"></h1>
 
 ![SPRK_default_preset_name_custom – 1](https://res.cloudinary.com/robinjoseph/image/upload/v1640533956/Web_1920_1_ijevwy.png)
 
