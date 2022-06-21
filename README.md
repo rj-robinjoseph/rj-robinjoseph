@@ -79,3 +79,6 @@
 <br/>
 
 <h2><img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/computer.png" width="30px"/>&nbsp &nbspUpcoming & Latest Works:</h2>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/Portfolio.png" alt="latest" width="260" align="left"/> </a>
+<a href="https://github.com/rj-robinjoseph/PixaBay" target="_blank" rel="noreferrer"> <img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/Pixabay.png" alt="latest" width="260" align="left"/> </a>
+<a href="https://github.com/rj-robinjoseph/Shopp.my" target="_blank" rel="noreferrer"> <img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/Ecommerce-design.png" alt="latest" width="260" align="left"/> </a>
