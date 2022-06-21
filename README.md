@@ -20,12 +20,12 @@
 
 <h2><img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/connect.png" width="30px"/>&nbsp &nbspConnect with me:</h2>
 <p align="left">
- <a href="https://linkedin.com/in/" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/linkedin.png" alt=""  width="40" /></a>
- <a href="https://instagram.com/" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/instagram.png" alt=""  width="40" /></a>
-<a href="https://facebook.com/" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/facebook.png" alt=""  width="40" /></a>
-<a href="https://twitter.com/" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/twitter.png" alt="" width="40" /></a>
-<a href="" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/dribbble.png" alt=""  width="40" /></a>
- <a href="" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/behance.png" alt=""  width="40" /></a>
+ <a href="https://www.linkedin.com/in/rj-robinjoseph/" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/linkedin.png" alt=""  width="40" /></a>
+ <a href="https://www.instagram.com/rj_robinjoseph/" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/instagram.png" alt=""  width="40" /></a>
+<a href="https://www.facebook.com/robinjosephrj452/" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/facebook.png" alt=""  width="40" /></a>
+<a href="https://twitter.com/robinjoseph452" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/twitter.png" alt="" width="40" /></a>
+<a href="https://dribbble.com/rj_robinjoseph" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/dribbble.png" alt=""  width="40" /></a>
+ <a href="https://www.behance.net/robinjoseph2" target="blank"><img align="left" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/behance.png" alt=""  width="40" /></a>
 </p>
 
 <br/>
@@ -73,3 +73,9 @@
 <img align="left" alt="AI" width="40px" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/illustrator.png" />
 <img align="left" alt="FIGMA" width="40px" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/figma.png" />
 <img align="left" alt="FRAMER" width="40px" src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/framer.png" />
+
+<br/>
+<br/>
+<br/>
+
+<h2><img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/computer.png" width="30px"/>&nbsp &nbspUpcoming & Latest Works:</h2>
