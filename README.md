@@ -6,6 +6,7 @@
 
 <img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/GIF-210427_104427.gif" align="right" height="300px" />
 
+
 - 📫 How to reach me **robinjoseph452@gmail.com**
 
 - 👨‍💻 You can also check out my portfolio at [robinjoseph.tk](https://www.robinjoseph.tk/)
@@ -16,6 +17,7 @@
 
 - ⚡ One thing I cannot live without is **Music.**
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rj-robinjoseph&left_color=blue&right_color=red)
 <br/>
 
 <h2><img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/connect.png" width="30px"/>&nbsp &nbspConnect with me:</h2>
