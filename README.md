@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **robinjoseph452@gmail.com**
 
-- 👨‍💻 You can also check out my portfolio at [robinjoseph.tk](https://www.robinjoseph.tk/)
+- 👨‍💻 You can also check out my portfolio at [robinjoseph.live](https://www.robinjoseph.live/)
 
 - 🔭 I’m currently Learning everything.
 
@@ -17,7 +17,6 @@
 
 - ⚡ One thing I cannot live without is **Music.**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rj-robinjoseph&left_color=blue&right_color=red)
 <br/>
 
 <h2><img src="https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/icons/connect.png" width="30px"/>&nbsp &nbspConnect with me:</h2>
