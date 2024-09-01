@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently Learning everything.
 
-- 📝 Find my [Resume here](https://github.com/rj-robinjoseph/rj-robinjoseph/blob/main/Resume-Robin%20Joseph.pdf)
-
 - ⚡ One thing I cannot live without is **Music.**
 
 <br/>
